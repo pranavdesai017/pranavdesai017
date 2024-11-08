@@ -23,13 +23,13 @@ Here’s a snapshot of my technical skills and the tools I use:
 - **Version Control**: Git, GitHub, GitLab
 
   ## 📝 Certifications
-  AWS Certified Cloud Practitioner
-  AWS Certified SysOps Administrator Associate
-  AWS Certified DevOps Engineer Professional
-  Microsoft Certified: Azure Fundamentals (AZ-900)
-  Microsoft Certified: Azure Administrator Associate (AZ-104)
-  Certified Kubernetes Administrator (CKA)
-  Linux Administration The Complete Linux Bootcamp in 2024
+ - AWS Certified Cloud Practitioner
+ - AWS Certified SysOps Administrator Associate
+ - AWS Certified DevOps Engineer Professional
+ - Microsoft Certified: Azure Fundamentals (AZ-900)
+ - Microsoft Certified: Azure Administrator Associate (AZ-104)
+ - Certified Kubernetes Administrator (CKA)
+ - Linux Administration The Complete Linux Bootcamp in 2024
 
   ## 💼 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/pranav-desai-1560352a8/
