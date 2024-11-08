@@ -19,7 +19,7 @@ Here’s a snapshot of my technical skills and the tools I use:
 - **Configuration Management**: Ansible
 - **Containerization**: Docker, Kubernetes, Helm
 - **Infrastructure as Code**: Terraform, CloudFormation
-- **Monitoring and Logging**: Prometheus, Grafana, ELK Stack, Datadog
+- **Monitoring and Logging**: Prometheus, Grafana, ELK Stack
 - **Version Control**: Git, GitHub, GitLab
 
   ## 📝 Certifications
