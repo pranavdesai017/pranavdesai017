@@ -1,4 +1,4 @@
- Hi there, I'm Pranav Desai 👋
+ Hi there, I'm **Pranav Desai** 👋
 
 ## 🌐 About Me
 I'm a **Cloud and DevOps Engineer** passionate about building efficient, scalable, and secure cloud infrastructure. With a strong foundation in cloud platforms, CI/CD, automation, and DevOps practices, I am constantly exploring new tools and technologies to enhance my work and deliver solutions faster and more reliably.
